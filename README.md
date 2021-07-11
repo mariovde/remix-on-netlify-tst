@@ -1,7 +1,5 @@
 # Welcome to Remix on Netlify!
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ascorbic/remix-on-netlify">![deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)</a>
-
 - [Remix Docs](https://docs.remix.run)
 - [Customer Dashboard](https://remix.run/dashboard)
 
@@ -23,5 +21,3 @@ Open up [http://localhost:3000](http://localhost:3000) and you should be ready t
 ## Deploying
 
 In the Netlify dashboard, set the environment variable `REMIX_TOKEN` to your licence key from the Remix dashboard. Then when you deploy to Netlify, everything should work.
-
-Click to deploy a copy of this repo: <a href="https://app.netlify.com/start/deploy?repository=https://github.com/ascorbic/remix-on-netlify">![deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)</a>
